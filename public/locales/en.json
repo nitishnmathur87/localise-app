@@ -1,0 +1,7 @@
+{
+    "heading": "Welcome to Transaltions",
+    "main": {
+        "greeting": "Hellooooo {{name}} !!!!",
+        "description": "Start editing to see some magic happen!" 
+    }
+}
